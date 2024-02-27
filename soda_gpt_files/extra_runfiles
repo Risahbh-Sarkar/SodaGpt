@@ -1,0 +1,2 @@
+soda test-connection -d adventureworks -c configuration.yml
+soda scan -d adventureworks -c configuration.yml checks.yml
